@@ -26,7 +26,7 @@ define('DB_NAME', '2337131_roidb');
 define('DB_USER', '2337131_roidb');
 
 /** MySQL database password */
-define('DB_PASSWORD', '33UHZ72Z)NS8u$(*sL');
+define('DB_PASSWORD', 'roicalculator@mysqldb!password11');
 
 /** MySQL hostname */
 define('DB_HOST', 'fdb17.biz.nf');
